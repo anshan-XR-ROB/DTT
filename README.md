@@ -57,7 +57,7 @@ Please note that, for fair comparison, we control the total iterations during tr
 We take VOC as an example.
 1. We totally have 10582 images. The full supervised baseline is trained for 60 epochs with batch size 16, thus having 10582*60/16 = 39682.5 iters.
 2. If we train CPS under the 1/8 split, we have 1323 labeled images and 9259 unlabeled images. Since the number of unlabeled images is larger than the number of labeled images, the `epoch` is defined as passing all the unlabeled images to the network. In each iteration, we have 8 labeled images and 8 unlabeled images, thus having 9259/8 = 1157.375 iters in one epoch. Then the total epochs we need is 39682.5/1157.375 = 34.29 ≈ 34. 
-3. For the supervised baseline under the 1/8 split, the batch size 8 (as illustrated in Appendix A in the paper) and the iteration number is 39682.5 (the same as semi-supervised method).
+3. For the supervised baseline under the 1/8 split, the batch size 8 and the iteration number is 39682.5 (the same as semi-supervised method).
 
 
 We list the nepochs for different datasets and partitions in the below.
@@ -71,10 +71,13 @@ We list the nepochs for different datasets and partitions in the below.
 Please consider citing this project in your publications if it helps your research.
 
 ```bibtex
-@inproceedings{chen2021-CPS,
-  title={Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision},
-  author={Chen, Xiaokang and Yuan, Yuhui and Zeng, Gang and Wang, Jingdong},
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2021}
-}
+@ARTICLE{9804753,
+  author={An, Shan and Zhu, Haogang and Zhang, Jiaao and Ye, Junjie and Wang, Siliang and Yin, Jianqin and Zhang, Hong},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Deep Tri-Training for Semi-Supervised Image Segmentation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2022.3185768}}
 ```
