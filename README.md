@@ -10,8 +10,8 @@ The code is developed using Python 3.6 with PyTorch 1.0.0. The code is developed
 1. **Clone this repo.**
 
    ```shell
-   $ git clone https://github.com/charlesCXK/TorchSemiSeg.git
-   $ cd TorchSemiSeg
+   $ git clone https://github.com/anshan-ar/DTT.git
+   $ cd DTT
    ```
 
 2. **Install dependencies.**
@@ -19,8 +19,8 @@ The code is developed using Python 3.6 with PyTorch 1.0.0. The code is developed
    **(1) Create a conda environment:**
 
    ```shell
-   $ conda env create -f semiseg.yaml
-   $ conda activate semiseg
+   $ conda env create -f DTT.yaml
+   $ conda activate DTT
    ```
 
    **(2) Install apex 0.1(needs CUDA)**
