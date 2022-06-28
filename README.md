@@ -20,7 +20,6 @@ DTT involves three models to make full use of unlabeled images appropriately.Con
 
 ## Citation
 
-Please consider citing this project in your publications if it helps your research.
 
 ```bibtex
 @ARTICLE{9804753,
