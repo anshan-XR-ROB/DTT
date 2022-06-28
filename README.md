@@ -32,15 +32,11 @@ The code is developed using Python 3.6 with PyTorch 1.0.0. The code is developed
 
 ## Getting Started
 ### Data Preparation 
-##### Download the data (VOC, Cityscapes) and pre-trained models from  [OneDrive link](https://pkueducn-my.sharepoint.com/:f:/g/personal/pkucxk_pku_edu_cn/EtjNKU0oVMhPkOKf9HTPlVsBIHYbACel6LSvcUeP4MXWVg?e=139icd): 
-
+##### Download the data (PASCAL VOC, Cityscapes)
 ```
-DATA/
-|-- city
-|-- pascal_voc
-|-- pytorch-weight
-|   |-- resnet50_v1c.pth
-|   |-- resnet101_v1c.pth
+[PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
+[Cityscapes](https://www.cityscapes-dataset.com/)
+
 ```
 
 
