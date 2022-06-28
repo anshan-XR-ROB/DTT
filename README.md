@@ -33,11 +33,9 @@ The code is developed using Python 3.6 with PyTorch 1.0.0. The code is developed
 ## Getting Started
 ### Data Preparation 
 ##### Download the data (PASCAL VOC, Cityscapes)
-   ```shell
-[PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
-   [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/ "PASCAL VOC")
-   [Cityscapes](https://www.cityscapes-dataset.com/)
-   ```
+- [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
+- [Cityscapes](https://www.cityscapes-dataset.com/)
+
 ### Training && Inference on PASCAL VOC:
    ```shell
    $ cd ./model/voc8.res50v3+.CPS
