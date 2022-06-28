@@ -1,0 +1,23 @@
+Model: /export/zja/code/TorchSemiSeg-main/trip-branch-1/snapshot/epoch-80.pth
+1 background	92.154%
+2 aeroplane	81.879%
+3 bicycle	40.568%
+4 bird  	82.684%
+5 boat  	60.013%
+6 bottle	70.807%
+7 bus   	84.737%
+8 car   	79.476%
+9 cat   	82.928%
+10 chair	18.749%
+11 cow  	65.708%
+12 diningtable	45.107%
+13 dog  	77.307%
+14 horse	71.257%
+15 motorbike	81.276%
+16 person	81.175%
+17 pottedplant	51.092%
+18 sheep	67.513%
+19 sofa 	43.841%
+20 train	80.527%
+21 tv/monitor	59.159%
+----------------------------     mean_IU 	67.522%	mean_IU_no_back	66.290%	mean_pixel_ACC	92.480%

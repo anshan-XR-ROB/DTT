@@ -1,0 +1,23 @@
+Model: /export/wangsiliang/TorchSemiSeg/exp.voc/voc8.res50v3+.CPS+CutMix/ckpt/1-16/epoch-last.pth
+1 background	0.000%
+2 aeroplane	0.000%
+3 bicycle	0.000%
+4 bird  	0.000%
+5 boat  	0.000%
+6 bottle	0.000%
+7 bus   	0.000%
+8 car   	0.000%
+9 cat   	0.000%
+10 chair	0.000%
+11 cow  	0.000%
+12 diningtable	1.170%
+13 dog  	0.000%
+14 horse	0.000%
+15 motorbike	0.000%
+16 person	0.000%
+17 pottedplant	0.000%
+18 sheep	0.000%
+19 sofa 	0.000%
+20 train	0.000%
+21 tv/monitor	0.000%
+----------------------------     mean_IU 	0.056%	mean_IU_no_back	0.058%	mean_pixel_ACC	1.170%

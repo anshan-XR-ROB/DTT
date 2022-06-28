@@ -1,0 +1,21 @@
+Model: /data/home/scv3198/code/TorchSemiSeg/CPS-50-1-16-single/max.pth
+1 road  	97.548%
+2 sidewalk	80.701%
+3 building	91.082%
+4 wall  	39.989%
+5 fence 	56.965%
+6 pole  	59.888%
+7 traffic light	65.201%
+8 traffic sign	75.519%
+9 vegetation	91.677%
+10 terrain	60.679%
+11 sky  	93.840%
+12 person	80.408%
+13 rider	58.962%
+14 car  	94.085%
+15 truck	53.959%
+16 bus  	67.180%
+17 train	57.392%
+18 motorcycle	54.331%
+19 bicycle	74.157%
+----------------------------     mean_IU 	71.240%	mean_IU_no_back	69.779%	mean_pixel_ACC	95.203%

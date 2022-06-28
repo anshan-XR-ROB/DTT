@@ -1,0 +1,21 @@
+Model: /data/home/scv3198/code/TorchSemiSeg/exp.city/city8.res50v3+.CPS/log/snapshot/snapshot/epoch-last.pth
+1 road  	0.000%
+2 sidewalk	0.000%
+3 building	0.000%
+4 wall  	0.000%
+5 fence 	0.000%
+6 pole  	0.000%
+7 traffic light	0.000%
+8 traffic sign	0.000%
+9 vegetation	0.000%
+10 terrain	0.000%
+11 sky  	0.000%
+12 person	0.000%
+13 rider	0.000%
+14 car  	0.000%
+15 truck	0.000%
+16 bus  	0.000%
+17 train	0.113%
+18 motorcycle	0.000%
+19 bicycle	0.000%
+----------------------------     mean_IU 	0.006%	mean_IU_no_back	0.006%	mean_pixel_ACC	0.113%

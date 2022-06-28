@@ -1,0 +1,23 @@
+Model: /export/wangsiliang/TorchSemiSeg/CPS-101-1-4-single/snapshot/epoch-last.pth
+1 background	94.744%
+2 aeroplane	92.194%
+3 bicycle	42.641%
+4 bird  	90.133%
+5 boat  	75.206%
+6 bottle	82.408%
+7 bus   	95.178%
+8 car   	88.601%
+9 cat   	94.182%
+10 chair	33.296%
+11 cow  	90.397%
+12 diningtable	60.965%
+13 dog  	89.146%
+14 horse	87.579%
+15 motorbike	86.722%
+16 person	86.666%
+17 pottedplant	64.419%
+18 sheep	90.028%
+19 sofa 	52.754%
+20 train	88.666%
+21 tv/monitor	70.359%
+----------------------------     mean_IU 	78.871%	mean_IU_no_back	78.077%	mean_pixel_ACC	95.293%

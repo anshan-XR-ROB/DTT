@@ -1,0 +1,23 @@
+Model: /export/zja/code/TorchSemiSeg-main/CPS-50-1-8-COTRIP/max.pth
+1 background	93.352%
+2 aeroplane	86.531%
+3 bicycle	41.724%
+4 bird  	84.681%
+5 boat  	65.139%
+6 bottle	77.733%
+7 bus   	92.397%
+8 car   	82.945%
+9 cat   	88.755%
+10 chair	24.940%
+11 cow  	83.582%
+12 diningtable	53.603%
+13 dog  	84.799%
+14 horse	80.374%
+15 motorbike	82.129%
+16 person	84.057%
+17 pottedplant	58.939%
+18 sheep	80.295%
+19 sofa 	44.883%
+20 train	84.196%
+21 tv/monitor	67.904%
+----------------------------     mean_IU 	73.474%	mean_IU_no_back	72.480%	mean_pixel_ACC	93.976%

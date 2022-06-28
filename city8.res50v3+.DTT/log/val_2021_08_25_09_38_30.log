@@ -1,0 +1,21 @@
+Model: /data/home/scv3198/code/TorchSemiSeg/CPS-50-1-16-single/snapshot/epoch-last.pth
+1 road  	97.731%
+2 sidewalk	81.366%
+3 building	90.300%
+4 wall  	28.349%
+5 fence 	52.253%
+6 pole  	60.131%
+7 traffic light	64.571%
+8 traffic sign	74.419%
+9 vegetation	91.899%
+10 terrain	61.331%
+11 sky  	94.043%
+12 person	79.960%
+13 rider	58.316%
+14 car  	93.204%
+15 truck	44.428%
+16 bus  	70.118%
+17 train	56.198%
+18 motorcycle	50.115%
+19 bicycle	74.726%
+----------------------------     mean_IU 	69.656%	mean_IU_no_back	68.096%	mean_pixel_ACC	95.149%

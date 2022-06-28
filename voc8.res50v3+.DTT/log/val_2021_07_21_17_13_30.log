@@ -1,0 +1,23 @@
+Model: /export/zja/code/TorchSemiSeg-main/trip-EXP16/10000.pth
+1 background	93.209%
+2 aeroplane	87.810%
+3 bicycle	41.614%
+4 bird  	85.015%
+5 boat  	59.610%
+6 bottle	76.752%
+7 bus   	93.391%
+8 car   	82.825%
+9 cat   	88.614%
+10 chair	17.810%
+11 cow  	81.392%
+12 diningtable	52.468%
+13 dog  	85.253%
+14 horse	81.626%
+15 motorbike	83.420%
+16 person	84.561%
+17 pottedplant	54.190%
+18 sheep	80.740%
+19 sofa 	39.722%
+20 train	85.611%
+21 tv/monitor	68.688%
+----------------------------     mean_IU 	72.587%	mean_IU_no_back	71.556%	mean_pixel_ACC	93.941%

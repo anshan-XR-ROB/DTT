@@ -1,0 +1,23 @@
+Model: ./ckpt/cps-50-1-4.pth
+1 background	93.568%
+2 aeroplane	85.895%
+3 bicycle	42.531%
+4 bird  	86.761%
+5 boat  	69.510%
+6 bottle	80.540%
+7 bus   	91.373%
+8 car   	82.844%
+9 cat   	89.278%
+10 chair	30.586%
+11 cow  	78.944%
+12 diningtable	50.738%
+13 dog  	83.524%
+14 horse	81.750%
+15 motorbike	84.112%
+16 person	83.476%
+17 pottedplant	57.900%
+18 sheep	81.276%
+19 sofa 	48.106%
+20 train	83.725%
+21 tv/monitor	70.191%
+----------------------------     mean_IU 	74.125%	mean_IU_no_back	73.153%	mean_pixel_ACC	94.119%
