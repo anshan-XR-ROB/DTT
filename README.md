@@ -38,7 +38,7 @@ The code is developed using Python 3.6 with PyTorch 1.0.0. The code is developed
 
 ### Training && Inference on PASCAL VOC:
    ```shell
-   $ cd ./voc8.res50v3+.CPS
+   $ cd ./voc8.res50v3+.DTT
    $ bash script.sh
    ```
 
