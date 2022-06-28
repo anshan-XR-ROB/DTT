@@ -41,11 +41,10 @@ The code is developed using Python 3.6 with PyTorch 1.0.0. The code is developed
    $ cd ./voc8.res50v3+.DTT
    $ bash script.sh
    ```
-![avatar](https://github.com/anshan-ar/DTT/blob/main/method.png)
-- The tensorboard file is saved in `log/tb/` directory.
-- In `script.sh`, you need to specify some variables, such as the path to your data dir, the path to your snapshot dir that stores checkpoints, etc.
-- We have released the [training log](https://pkueducn-my.sharepoint.com/:t:/g/personal/pkucxk_pku_edu_cn/ERl1pm99zhFIvIIB8y82WiIB13AQ9Hd8FyrJQ5v3fpP0vg?e=Nd0f1M) and [pretrained model](https://pkueducn-my.sharepoint.com/:u:/g/personal/pkucxk_pku_edu_cn/ESx6vF1dapJGkbsLWHnHSakBdFOkooQcIFeDpCRTVJS8Iw?e=zMCvhj) for this experiment on OneDrive. The performance is slightly different (73.28) from that of paper (73.20) due to randomness.
-- We have also released the [training log](https://pkueducn-my.sharepoint.com/:t:/g/personal/pkucxk_pku_edu_cn/EdRRCsS2KtFGoTophitkLh0BnA40ZPBmuVKhWEV-biF2lw?e=8LaE88) of `city8.res50v3+.CPS`.
+![method](https://github.com/anshan-ar/DTT/blob/main/method.png)
+- Base model obtained by CPS/CPS+CutMix training.
+- The third network branch is obtained by DTT training on the basis of the model obtained above.
+- Final results are obtained through the DTT voting mechanism.
 
 ### Different Partitions
 To try other data partitions beside 1/8, you just need to change two variables in `config.py`:
